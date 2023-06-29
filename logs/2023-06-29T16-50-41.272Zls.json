@@ -1,0 +1,7 @@
+{
+  "start": "2023-06-29T16:50:41.272Z",
+  "duration": null,
+  "success": false,
+  "commandSuccess": false,
+  "error": "spawn ls ENOENT"
+}
